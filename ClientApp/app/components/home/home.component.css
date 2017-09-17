@@ -2,7 +2,24 @@
     position: relative;
     width: 100%;
     min-height: 775px;
+    height: 100vh;
     padding-top: 0;
     padding-bottom: 0;
     background: url('../../../../wwwroot/img/landscapes-with-lake-and-clouds.jpg');
+}
+
+.h-100 {
+    height: 100% !important;
+}
+
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
+
+.auto-margin {
+    margin-top: auto !important;
+    margin-bottom: auto !important;
 }

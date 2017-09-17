@@ -1,0 +1,9 @@
+.navbar-brand {
+    font-family: Catamaran,Helvetica,Arial,sans-serif;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1140px
+    }
+}
