@@ -1,0 +1,8 @@
+.masthead {
+    position: relative;
+    width: 100%;
+    min-height: 775px;
+    padding-top: 0;
+    padding-bottom: 0;
+    background: url('../../../../wwwroot/img/landscapes-with-lake-and-clouds.jpg');
+}
